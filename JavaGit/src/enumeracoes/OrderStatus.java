@@ -1,0 +1,12 @@
+package enumeracoes;
+
+public enum OrderStatus {
+	AGUARDANDOPAGAMENTO,
+	PROCESSANDO,
+	ENVIADO,
+	ENTREGUE;
+	
+	//TODOS SÃO CONSTANTES E ESCRITOS COM LETRAS MAIÚSCULAS
+	
+
+}
